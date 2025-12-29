@@ -62,8 +62,9 @@
   </g>
 
   <!-- Name -->
-  <text x="600" y="150"
+  <text x="50%" y="150"
         text-anchor="middle"
+        dominant-baseline="middle"
         font-size="60"
         font-family="Pacifico"
         font-weight="600"
