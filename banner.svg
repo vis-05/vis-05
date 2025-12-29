@@ -62,7 +62,7 @@
   </g>
 
   <!-- Name -->
-  <text x="50%" y="50%"
+  <text x="50%" y="50%" dy="4"
         text-anchor="middle"
         dominant-baseline="middle"
         font-size="60"
